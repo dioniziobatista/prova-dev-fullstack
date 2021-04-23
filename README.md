@@ -31,5 +31,5 @@ Você será responsável por efetuar essa entrega.
 - Domínio técnico das tecnologias e frameworks empregados;
 - Legibilidade/Modularização do código;
 - Solução;
-- Modelagem e Arquietura;
+- Modelagem e Arquitetura;
 - Design Patterns; 
