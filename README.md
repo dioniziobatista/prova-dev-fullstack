@@ -8,7 +8,6 @@ O nosso time interno de produto, responsável pela integração com outros squad
 Você será responsável por efetuar essa entrega para ele. 
 
 ## Requisitos
-
 ### Funcionais
 - Permitir cadastrar cliente através da uma interface web;
 - Permitir buscar cliente por chave de negócio através da uma interface web;
