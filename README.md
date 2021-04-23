@@ -1,9 +1,9 @@
 # Avaliação - Desenvolvedor Fullstack
 
 # Descrição
-A área de relacionamento com o cliente da nossa empresa possui interesse em gerênciar clientes e seus respectivos dados sensíveis (nome, cpf e telefone para contato) através de uma aplicação web. Para isso, precisamos cadastrar os clientes, para que possamos busca-los atraves de suas informações. 
+A área de relacionamento com o cliente da nossa empresa possui interesse em gerenciar clientes e seus respectivos dados sensíveis (nome, cpf e telefone para contato) através de uma aplicação web. Para isso, precisamos cadastrar os clientes, para que possamos busca-los através de suas informações. 
 
-O nosso time interno de produto, responsável pela integração com outros squads de desenvolvimento, já nos informou a necessidade de consultar as informações do cliente através de outro sub-sistema.  
+O nosso time interno de produto, responsável pela integração com outros squads de desenvolvimento, já nos informou a necessidade de consultar as informações do cliente através de outro subsistema.  
  
 Você será responsável por efetuar essa entrega para ele. 
 
