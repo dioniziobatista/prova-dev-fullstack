@@ -12,8 +12,8 @@ Você será responsável por efetuar essa entrega para ele.
 ### Funcionais
 - Permitir cadastrar cliente através da uma interface web;
 - Permitir buscar cliente por chave de negócio através da uma interface web;
-- Permitir buscar cliente por chave de negócio através de um serviço REST;
--
+- Permitir buscar cliente por chave de negócio através de um serviço REST; 
+
 ### Não-Funcionais
 - O código fonte deve ser publicado em repositório **público** (por exemplo github/gitlab/bitbucket);
 - Enviar repositório por e-mail para equipe de seleção;
