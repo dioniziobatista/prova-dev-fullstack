@@ -24,3 +24,12 @@ Você será responsável por efetuar essa entrega.
 - Documentar instalação, inicialização e configuração da aplicação através do `README.md`;
 - Disponibilizar contrato do serviço REST no repositório;
 - Disponibilizar modelagem arquitetural no repositório; 
+
+## O que será avaliado?
+- Explicações na Code Interview sobre trade-offs técnicos efetuados na elaboração;
+- Domínio de Orientação ao Objeto;
+- Domínio técnico das tecnologias e frameworks empregados;
+- Legibilidade/Modularização do código;
+- Solução;
+- Modelagem e Arquietura;
+- Design Patterns; 
