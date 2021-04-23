@@ -5,7 +5,7 @@ A área de relacionamento com o cliente da nossa empresa possui interesse em ger
 
 O nosso time interno de produto, responsável pela integração com outros squads de desenvolvimento, já nos informou a necessidade de consultar as informações do cliente através de outro subsistema.  
  
-Você será responsável por efetuar essa entrega para ele. 
+Você será responsável por efetuar essa entrega. 
 
 ## Requisitos
 ### Funcionais
@@ -19,6 +19,7 @@ Você será responsável por efetuar essa entrega para ele.
 - Todo artefato usado em desenvolvimento deve ser salvo no repositório;
 - Realizar desenvolvimento frontend utilizando o framework [Angular](https://angular.io/) + [TypeScript](https://www.typescriptlang.org/).
 - Realizar desenvolvimento backend utilizando as linguagens: Java, Node.js, Kotlin ou Go;
+- Se possível, utilize alguma ferramenta de garantia de qualidade. 
 - Documentar instalação, inicialização e configuração da aplicação através do `README.md`;
 - Disponibilizar contrato do serviço REST no repositório;
 - Disponibilizar modelagem arquitetural no repositório; 
